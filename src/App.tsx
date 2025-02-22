@@ -73,8 +73,8 @@ function App() {
     <div className="min-h-screen bg-gray-100">
       <div className="container mx-auto p-8">
         <div className="mb-8">
-          <h1 className="text-3xl font-bold text-gray-800 mb-2">Low Code Banner</h1>
-          <p className="text-gray-600">Search through the Font Awesome icon library</p>
+          <h1 className="text-3xl font-bold text-gray-800 mb-2">Low Code CTO: Icon Banner Builder</h1>
+          <p className="text-gray-600">Search through the Font Awesome icon library. Designed to build banners for newsletters on <a href="https://lowcodecto.com" target="_blank">lowcodecto.com</a>.</p>
         </div>
 
         {selectedIcons.length > 0 && (

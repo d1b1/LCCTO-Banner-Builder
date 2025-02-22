@@ -1,9 +1,11 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "low-code-cto-banner-builder-v2",
   "private": true,
   "version": "0.0.0",
+  "author": "Stephan Smith",
   "type": "module",
   "scripts": {
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
