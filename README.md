@@ -28,6 +28,15 @@ a part of my content generation process.
 - Uses Redux for state management.
 - Uses Netlify for hosting.
 
+Screenshot of the banner builder.
+![V2 Builder](assets/banner-builder.png)
+
+Here is an example of how I use the banner builder to
+create a banner for each newsletter article. I did not like
+the Beehiiv AI logo builder. Felt to non-human.
+![V2 Builder](assets/example.png)
+
+Example of the file it creates.
 ![V2 Builder](assets/banner-builder.png)
 
 ## Pain Points
