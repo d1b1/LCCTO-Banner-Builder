@@ -9,6 +9,7 @@ to replace my code-first inner developer.
 - __Ai Builder__: [Bolt.new](https://bolt.new)
 - __Quality__: Good for Internal use. Not production ready.
 - __Demo__: [Demo Site](https://apps.banner.lowcodecto.com/)
+- __Mission__: Build on Bolt.new, tweak in code on Github.
 
 # Goal
 The goal of this app is help me build and change the portrait
@@ -52,3 +53,10 @@ No-Code and Low-Code tools and patterns to built revenue generating
 applications, without the need to code.
 
 [Subscribe to my newsletter](https://lowCodeCTO.com)
+
+## Local Development
+Reminder commands for myself for local tweaks.
+
+- `npm run dev`
+- `npm run build`
+- `netlify deploy` or `netlify deploy --prod`
